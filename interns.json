@@ -1,0 +1,27 @@
+[
+    
+    {
+        "Intern ID": "101",
+        "Name": "Sneha",
+        "College": "SSN College of Engineering",
+        "Department": "ECE",
+        "Email": "SNEHA.IT@GMAIL.COM",
+        "Phone": "8765432190",
+        "Domain": "Clooud Computing",
+        "Mentor": "Dr.P.Meena",
+        "Duration": "3 months",
+        "Status": "Ongoing"
+    },
+    {
+        "Intern ID": "105",
+        "Name": "Divya.R",
+        "College": "MIT Chennai",
+        "Department": "Mechanical",
+        "Email": "divya.mit@gmail.com",
+        "Phone": "9012345678",
+        "Domain": "IoT",
+        "Mentor": "Mr.A.Suresh",
+        "Duration": "30 days",
+        "Status": "Ongoing"
+    }
+]
